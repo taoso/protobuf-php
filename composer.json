@@ -5,6 +5,9 @@
   "keywords": ["proto"],
   "homepage": "https://developers.google.com/protocol-buffers/",
   "license": "BSD-3-Clause",
+  "replace": {
+      "google/protobuf": "self.version"
+  },
   "require": {
     "php": ">=5.5.0"
   },

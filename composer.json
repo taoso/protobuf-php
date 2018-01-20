@@ -1,5 +1,5 @@
 {
-  "name": "google/protobuf",
+  "name": "lvht/protobuf",
   "type": "library",
   "description": "proto library for PHP",
   "keywords": ["proto"],
